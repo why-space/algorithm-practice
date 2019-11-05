@@ -6,4 +6,4 @@
 常用数据结构的实现
 [Spring-data-jpa 查询  维特](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 
-[why](www.baidu.com)
+[why](http://www.baidu.com)
